@@ -1,0 +1,4 @@
+window["cmsg"] = window["cmsg"] || {};
+window["cmsg"]["strings"] = window["cmsg"]["strings"] || {};
+window["cmsg"]["strings"]["en"] = window["cmsg"]["strings"]["en"] || [];
+window["cmsg"]["strings"]["en"].push({"xysR8w":"Add page","GX3lQg":"Page limit reached","WpvrgQ":"Add page","94lziw":"Duplicate","XYaY+Q":"Delete","+28ZvQ":"Notes","7gW8Yw":"Select","i1AT5A":"Select ({0})","ws5QPA":"Duplicate","k+Gzuw":"Delete","C56f/A":"Page limit reached","qZyl5Q":"Duplicate","6LXqEw":"Delete","JCRcgg":"Deselect {0, plural, one {# page} other {# pages}}","XTf4UQ":"{0, number} - {1}"});
